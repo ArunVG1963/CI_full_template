@@ -2,13 +2,14 @@
 # Arun Venugopal
 - HTML
 - CSS
-- Bootstrp
+- Bootstrap
 - Javascript
 # Project Title : Hello World
 Welcome to my README.md the purpose of this is to test the funtionality of the md file system
 ### Description
 This the hello-world html code that is created to test the functionality of the gitpod IDE.
-##Contents
+
+## Contents
 1. Files
 2. Credits
 3. Research

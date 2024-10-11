@@ -8,9 +8,9 @@ nav ul {
     list-style : none;
     background-color: #4a4a4f;
     text-align: center;
-    padding: 0
-    margin :0;
-}
+    padding: 0 ;
+    margin: 0;
+   }
  nav li {
         font-size: 1.2em;
         line-height: 40px;
@@ -43,5 +43,5 @@ nav ul {
  }
 
  h2 {
-    test-align : center ;
+    text-align : center ;
  }
